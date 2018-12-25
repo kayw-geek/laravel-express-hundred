@@ -1,0 +1,18 @@
+{
+    "name": "weikaiii/express-hundred",
+    "description": "express 100 api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "魏凯",
+            "email": "weikaiii@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Weikaiii\\Express\\":"src"
+        }
+    }
+}
